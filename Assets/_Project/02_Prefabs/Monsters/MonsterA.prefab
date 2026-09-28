@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHp: 5
-  moveSpeed: 3.2
+  moveSpeed: 1.6
   attackRange: 1.8
   bodyStopDistance: 1.15
   attackCooldown: 1
@@ -178,12 +178,14 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5b5127ffc8c55ba4e8df16ab43e928f1, type: 3}
   - {fileID: 21300000, guid: 63788f48d15541c44b22163d2dbc2f39, type: 3}
   - {fileID: 21300000, guid: 6525d3fb1bd30b94b89ac8c3733e9674, type: 3}
-  - {fileID: 21300000, guid: 15213a76872978b46a893a10924c2aa5, type: 3}
   attackFrames:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
   - {fileID: 21300000, guid: cfae7e947c714fc099090edb1e697ccc, type: 3}
   - {fileID: 21300000, guid: 1b57aaa5888e4c1f8be88e50cd2c26c2, type: 3}
+  - {fileID: 21300000, guid: e28b01baf64722742a266e3b7ce86cc9, type: 3}
+  - {fileID: 21300000, guid: 28ddfbc41483ff049b7569896ddd5da6, type: 3}
+  - {fileID: 21300000, guid: 74a2277d2da6e9349bf5d4435fb51ad1, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
@@ -192,11 +194,13 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
   - {fileID: 21300000, guid: c207956a914b4a02bb1ae40b2a36740c, type: 3}
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
+  - {fileID: 21300000, guid: 9121a1466d4fec64cbbed287bed74e0e, type: 3}
+  - {fileID: 21300000, guid: 401423ff5a756bd4cabc9c576a38836d, type: 3}
   idleFrameTimes:
-  - 0.1667
-  - 0.1667
-  - 0.1667
-  - 0.1667
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
   walkFrameTimes:
   - 0.1667
   - 0.1667
@@ -209,6 +213,9 @@ MonoBehaviour:
   - 0.125
   - 0.125
   - 0.125
+  - 0.125
+  - 0.125
+  - 0.125
   hitFrameTimes:
   - 0.08
   - 0.5
@@ -217,7 +224,7 @@ MonoBehaviour:
   - 0.1429
   - 0.1429
   - 0.1429
-  attackDamageFrame: 3
+  attackDamageFrame: 5
   attackSfx:
     clip: {fileID: 8300000, guid: 00edbd345f77b5145a339ed4da43f264, type: 3}
     volume: 1
@@ -230,4 +237,4 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: d553eeb1ef3017143ab170f8426c29a9, type: 3}
     volume: 1
     pitchVariance: 0.05
-  attackSwingFrame: 1
+  attackSwingFrame: 5
