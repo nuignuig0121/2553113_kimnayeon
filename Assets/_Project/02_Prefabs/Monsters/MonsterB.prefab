@@ -329,13 +329,13 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.6, y: 1.4}
-  hurtBoxOffset: {x: 0, y: 1.35}
-  attack1BoxSize: {x: 3.54, y: 1.8}
-  attack1BoxOffset: {x: -1.35, y: 0.8}
+  hurtBoxSize: {x: 3.54, y: 2.44}
+  hurtBoxOffset: {x: 0.27, y: 1.35}
+  attack1BoxSize: {x: 3.22, y: 1.91}
+  attack1BoxOffset: {x: -1.5, y: 1.37}
   attack2BoxSize: {x: 5.2, y: 2.4}
   attack2BoxOffset: {x: -2.6, y: 1.2}
-  hpDisplayHeightOverride: 3.43
+  hpDisplayHeightOverride: 3.1
   defaultFramesPerSecond: 8
   spriteRenderer: {fileID: 0}
   idleFrames:
@@ -422,7 +422,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5d39a9910805b2d4cacf9dbc85c0606b, type: 3}
   - {fileID: 21300000, guid: e34c8513d07e9c84ea16c324ea095e6c, type: 3}
   attack1EffectStartFrame: 6
-  attack1EffectOffset: {x: -1.85, y: 2.6, z: 0}
+  attack1EffectOffset: {x: -2.29, y: 1.44, z: 0}
   attack1EffectScale: {x: 0.9, y: 0.9, z: 1}
   attack1DamageFrame: 6
   attack2EffectRenderer: {fileID: 2680925471173150453}
@@ -432,8 +432,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 6a08dce2c91df4e4e8b08438e98e8291, type: 3}
   - {fileID: 21300000, guid: cfcca91f464e8b84393b476a16e2e55f, type: 3}
   attack2EffectStartFrame: 8
-  attack2EffectOffset: {x: -3.62, y: 2.2, z: 0}
-  attack2EffectScale: {x: 0.4, y: 0.4, z: 1}
+  attack2EffectOffset: {x: -3.62, y: 1.35, z: 0}
+  attack2EffectScale: {x: 0.6, y: 0.6, z: 1}
   attack2DamageFrame: 8
   attack1Sfx:
     clip: {fileID: 8300000, guid: 50419ca7116ccb94a9ba71f41db6fca0, type: 3}

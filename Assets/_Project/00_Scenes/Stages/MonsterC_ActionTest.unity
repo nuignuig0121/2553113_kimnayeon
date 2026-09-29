@@ -310,6 +310,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3697882731246222042, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: m_Size.x
+      value: 1.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697882731246222042, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: m_Size.y
+      value: 1.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697882731246222042, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697882731246222042, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: m_Offset.y
+      value: 2.21
+      objectReference: {fileID: 0}
     - target: {fileID: 6795757266843329326, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
       propertyPath: m_Name
       value: MonsterC_MotionTest

@@ -188,6 +188,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9a7e0272aff274c4faa5427db6dad964, type: 3}
   - {fileID: 21300000, guid: c11b8e945cee5e74c8bfe96d89d4e999, type: 3}
   - {fileID: 21300000, guid: a9e4f68c7b4e47129d1d2b7f2b1c03e6, type: 3}
+  - {fileID: 21300000, guid: cc8f387e860207747baa275fb838d694, type: 3}
   projectileFrames:
   - {fileID: 21300000, guid: c019f4cb862084842b4bc8e44945d21e, type: 3}
   - {fileID: 21300000, guid: 3d3a7d0252b7a5f4e864560970f4ace4, type: 3}

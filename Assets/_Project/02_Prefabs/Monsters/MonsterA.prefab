@@ -162,11 +162,11 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.6, y: 1}
-  hurtBoxOffset: {x: 0, y: 0.55}
-  attackBoxSize: {x: 1.92, y: 1.27}
-  attackBoxOffset: {x: -0.62, y: 0.63}
-  hpDisplayHeightOverride: 1.8
+  hurtBoxSize: {x: 2.33, y: 1.9}
+  hurtBoxOffset: {x: 0.02, y: 0.9}
+  attackBoxSize: {x: 1.43, y: 2.25}
+  attackBoxOffset: {x: -0.82, y: 1.12}
+  hpDisplayHeightOverride: 2
   idleFrames:
   - {fileID: 21300000, guid: e4456af0740e17545b0a83fdfc813c2a, type: 3}
   - {fileID: 21300000, guid: 7734f0bc23d7f5643bf3d47ace387911, type: 3}
