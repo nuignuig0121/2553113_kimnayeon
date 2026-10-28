@@ -231,7 +231,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 624c19efac884684a8a76a1472be91b4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8c208f2df74af84449afe5c069b98520, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -470,7 +470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &757331506
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -593,7 +593,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
+  m_AnchoredPosition: {x: 2039.4, y: 99}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &907461284
@@ -960,7 +960,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
+  m_AnchoredPosition: {x: -59.985, y: 200}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1314167295
@@ -1104,7 +1104,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
+  m_AnchoredPosition: {x: -59.985, y: -58}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1314353523
@@ -1252,8 +1252,26 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: ebc3d9a2f1b9dc44d8848d565bef78fd, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 9c995392ac0c0c64e943450bf59a3912, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 77ba3a27f50e5494da0a27e3ccef4996, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b4a4ba6bb34cbfb489c679bec1a4a8fe, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 63c4b347c6d4ccd4ba71a109be0c7219, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: d96e37094ad0945408c8c8a2c9491c34, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: e6c4c1b41657ae946b27221e2730acfa, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 678cf963df2b37c4abc5b5d7e9c7b9ea, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a784e58667f8ea34097ebbbd57f0b735, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 1bf2dc36168e1004a89b531fb8f3e5a2, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
