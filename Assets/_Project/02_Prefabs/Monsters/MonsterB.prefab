@@ -440,14 +440,14 @@ MonoBehaviour:
     volume: 1
     pitchVariance: 0.05
   attack2Sfx:
-    clip: {fileID: 8300000, guid: 1380352a3e2d4ce4da50b9d9bafe2aab, type: 3}
+    clip: {fileID: 8300000, guid: bc77a0bfb47c6e541bb2767ba59ad688, type: 3}
     volume: 1
     pitchVariance: 0.05
   hitSfx:
-    clip: {fileID: 8300000, guid: f63ebd2c65caaf249b1838a81406ec68, type: 3}
+    clip: {fileID: 8300000, guid: 4f163cebdd682c44e9b1d0e1fec2cdbe, type: 3}
     volume: 1
     pitchVariance: 0.05
   deathSfx:
-    clip: {fileID: 8300000, guid: d89d168c979707443a9edd7109f977ee, type: 3}
+    clip: {fileID: 8300000, guid: 8e27de70da4950b4890890076ebf652b, type: 3}
     volume: 1
     pitchVariance: 0.05

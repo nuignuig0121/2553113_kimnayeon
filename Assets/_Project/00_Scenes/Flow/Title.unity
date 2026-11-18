@@ -3203,7 +3203,7 @@ MonoBehaviour:
   sfxSlider: {fileID: 1960056118}
   menuController: {fileID: 1039545466}
   sfxPreviewSource: {fileID: 2084639265}
-  sfxPreviewClip: {fileID: 8300000, guid: ef88b2076dd51924bb500b32160bcd56, type: 3}
+  sfxPreviewClip: {fileID: 8300000, guid: 757bb6062f3ce12419f63f673a37ca61, type: 3}
 --- !u!82 &2084639265
 AudioSource:
   m_ObjectHideFlags: 0
